@@ -6,7 +6,6 @@ public class Konversi {
         String v1 = String.value0f(val_1);
         String v2 = String.value0f(val_2);
 
-
         System.out.println(v1 + v2);
        
     }
